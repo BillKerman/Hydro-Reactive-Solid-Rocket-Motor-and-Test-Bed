@@ -43,4 +43,5 @@ This repository contains the CAD, analysis, experimental data, and simulation in
     
   <img width="1338" height="775" alt="image" src="https://github.com/user-attachments/assets/7af757d6-c24c-48ab-a3c0-a6073fa3cd31" />
 
-  <img width="1338" height="775" alt="image" src="https://github.com/user-attachments/assets/ff68f6fd-b265-4583-85e6-f8c316b50e82" />
+  <img width="1070" height="674" alt="image" src="https://github.com/user-attachments/assets/1c8e6a17-fbc5-4999-bae0-dee453fd021b" />
+
