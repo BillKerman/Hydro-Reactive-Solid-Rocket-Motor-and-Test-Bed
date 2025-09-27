@@ -39,6 +39,7 @@ This repository contains the CAD, analysis, experimental data, and simulation in
 * Coupled thermal–structural simulations were run in ANSYS to validate analytical results and to capture local stress concentrations, thermal gradients, and transient behavior under expected worst‑case loadings.
 * Results correlated against analytical solutions (Lamé, lumped
 
+  <img width="1561" height="788" alt="Screenshot 2025-07-11 0504465" src="https://github.com/user-attachments/assets/ba252187-a7cf-4226-a3eb-29458c987589" />
 
 
  <img width="1396" height="707" alt="image" src="https://github.com/user-attachments/assets/05d1e53c-07ff-4ad7-846c-e40e26143092" />
